@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -35,4 +36,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+.appDiv {
+  margin: auto;
+  width: 600px;
+  height: 40vmin;
 }
